@@ -1,0 +1,17 @@
+altair
+pandas
+streamlit
+numpy
+plotly
+matplotlib
+Pillow
+pytesseract
+speechrecognition
+wordcloud
+scikit-learn
+transformers
+groq
+python-dotenv
+networkx
+scipy
+torch
