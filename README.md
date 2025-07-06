@@ -18,16 +18,16 @@ InsightLoop is an advanced, AI-powered, multimodal review analytics and market r
 
 ```
 .
-├── src/
-│   ├── streamlit_app.py        # Main app entry point (sometimes main.py)
-│   ├── pages/
-│   │   ├── prt111.py           # Main review analytics dashboard
-│   │   ├── persona.py          # Persona analysis & visualization
-│   │   └── newprod.py          # Product launch studio
-│   ├── review_files/           # Directory for raw review files (txt/png/wav)
-│   ├── data.csv                # Raw review metadata
-│   ├── data_with_text.csv      # Processed review text (saved after proccessing and overwritten at runtime)
-│   └── personas.json           # (temp) Persona definitions (overwritten at runtime)
+
+├── streamlit_app.py        # Main app entry point (sometimes main.py)
+├── pages/
+│   ├── prt111.py           # Main review analytics dashboard
+│   ├── persona.py          # Persona analysis & visualization
+│   └── newprod.py          # Product launch studio
+├── review_files/           # Directory for raw review files (txt/png/wav)
+├── data.csv                # Raw review metadata
+├── data_with_text.csv      # Processed review text (saved after proccessing and overwritten at runtime)
+└── personas.json           # (temp) Persona definitions (overwritten at runtime)
 ├── .env                        # Your secrets (API keys, paths) — DO NOT COMMIT
 ├── requirements.txt            # All dependencies
 ├── Dockerfile                  # (Optional) For containerized deployment
