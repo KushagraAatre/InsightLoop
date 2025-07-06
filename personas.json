@@ -1,0 +1,42 @@
+[
+  {
+    "name": "💪 Fitness Enthusiast",
+    "summary": "Avid gym-goers who prioritize performance and recovery.",
+    "bullets": [
+      "Focus on improving stamina, muscle recovery, and post-workout nutrition.",
+      "Value effectiveness, consistency, and ease of use.",
+      "Often mention \"noticeable improvement\" and \"feel more energetic\" in their reviews.",
+      "May be interested in optimizing their workout routine and nutrition plan."
+    ]
+  },
+  {
+    "name": "🤔 Practical Shoppers",
+    "summary": "Budget-conscious consumers who weigh price against product quality.",
+    "bullets": [
+      "Frequently mention the product's price, value, and quantity.",
+      "May be willing to compromise on flavor options or texture for a better price.",
+      "Still prioritize effectiveness and ease of use.",
+      "May be interested in finding the best deal for their money."
+    ]
+  },
+  {
+    "name": "👅 Flavor Fans",
+    "summary": "Customers who prioritize taste and texture in their supplements.",
+    "bullets": [
+      "Often mention the flavor, consistency, and mixability of the product.",
+      "May be willing to pay a premium for a product that tastes great.",
+      "May be interested in exploring different flavor options or brands.",
+      "May be influenced by reviews that mention taste and texture."
+    ]
+  },
+  {
+    "name": "🏋️‍♂️ Newbies",
+    "summary": "Beginners who are new to the world of fitness and supplements.",
+    "bullets": [
+      "May be enthusiastic and excited about their new fitness journey.",
+      "Often mention being a \"beginner\" or \"new to the gym.\"",
+      "May prioritize ease of use, convenience, and a gentle learning curve.",
+      "May be interested in educational resources or guidance on how to use the product effectively."
+    ]
+  }
+]
