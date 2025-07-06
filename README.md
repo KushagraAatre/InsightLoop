@@ -143,9 +143,6 @@ review_files/
 
 Pull requests and feature requests are welcome! Please open an issue if you find bugs or have ideas for improvement.
 
-## 📄 License
-
-MIT License. See LICENSE.
 
 ## 🚩 Contact
 
